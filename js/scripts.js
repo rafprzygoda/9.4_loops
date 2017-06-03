@@ -6,10 +6,4 @@ function drawTree(){
         console.log(star);
     }
 }
-
 drawTree(loop);
-    
-
-
-
-
